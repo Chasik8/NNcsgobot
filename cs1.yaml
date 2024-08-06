@@ -1,0 +1,10 @@
+path: 'D:\\Project\\Python\\Neroset_cs1\\'
+train: 'traning1\images'
+val: 'traning1\images'
+
+# class names
+names:
+  0: "ct"
+  1: "ct_cpos"
+  2: "ter"
+  3: "ter_cops"

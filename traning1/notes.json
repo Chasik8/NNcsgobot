@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "ct"
+    },
+    {
+      "id": 1,
+      "name": "ct_cpos"
+    },
+    {
+      "id": 2,
+      "name": "ter"
+    },
+    {
+      "id": 3,
+      "name": "ter_cops"
+    }
+  ],
+  "info": {
+    "year": 2022,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

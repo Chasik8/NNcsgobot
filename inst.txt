@@ -1,0 +1,11 @@
+pip install clearml
+pip install ultralytics
+pip3 install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu117
+python.exe -m pip install --upgrade pip
+clearml-init
+pip install opencv-python
+pip install mss==2.0.22
+pip install mss
+pip install pillow
+
+venv\Scripts\activate.bat

@@ -1,0 +1,10 @@
+/venv
+.idea
+ob2.mp4
+cadrs_ob1
+cadrs_ob2
+datasets
+pothole_dataset_v8/only_rainy_frames/train
+pothole_dataset_v8/train
+pothole_dataset_v8/train_to_valid
+pothole_dataset_v8/valid
